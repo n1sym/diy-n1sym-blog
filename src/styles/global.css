@@ -1,0 +1,11 @@
+body {
+	margin: auto;
+	padding: 20px;
+	max-width: 720px;
+	text-align: left;
+	background-color: #fff;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	line-height: 1.5;
+	color: rgb(27, 26, 26);
+}
